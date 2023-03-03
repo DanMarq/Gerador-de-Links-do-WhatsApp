@@ -6,4 +6,4 @@ Ainda adcionei um botão de copiar o link pra facilicar para aquele que acessa a
 Projeto Desenvolvido em React JS
 ## Link para visualizar o projeto
 Link utilizado o deploy build da Vercel para visualizar a página online:
-<a href="" target="_blank">Cliqui aqui para visualizar</a>
+<a href="https://gerador-de-links-do-whats-app.vercel.app/" target="_blank">Cliqui aqui para visualizar</a>
